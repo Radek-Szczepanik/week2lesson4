@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CEM\\Desktop\\Szkoła .NET\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj": {}
+    "C:\\Users\\R\\Desktop\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CEM\\Desktop\\Szkoła .NET\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj": {
+    "C:\\Users\\R\\Desktop\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CEM\\Desktop\\Szkoła .NET\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj",
+        "projectUniqueName": "C:\\Users\\R\\Desktop\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj",
         "projectName": "Week2Lesson4",
-        "projectPath": "C:\\Users\\CEM\\Desktop\\Szkoła .NET\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj",
-        "packagesPath": "C:\\Users\\CEM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CEM\\Desktop\\Szkoła .NET\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\obj\\",
+        "projectPath": "C:\\Users\\R\\Desktop\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\Week2Lesson4.csproj",
+        "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\R\\Desktop\\week2lesson4\\Week2Lesson4\\Week2Lesson4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
