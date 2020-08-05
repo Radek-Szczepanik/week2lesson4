@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\R\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\R\\.nuget\\packages"
+      "C:\\Users\\CEM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CEM\\.nuget\\packages"
     ]
   }
 }

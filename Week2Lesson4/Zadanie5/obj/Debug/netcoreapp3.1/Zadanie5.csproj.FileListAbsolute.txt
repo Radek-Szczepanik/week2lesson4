@@ -11,3 +11,16 @@ C:\Users\R\Desktop\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Za
 C:\Users\R\Desktop\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.dll
 C:\Users\R\Desktop\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.pdb
 C:\Users\R\Desktop\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.genruntimeconfig.cache
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\bin\Debug\netcoreapp3.1\Zadanie5.exe
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\bin\Debug\netcoreapp3.1\Zadanie5.deps.json
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\bin\Debug\netcoreapp3.1\Zadanie5.runtimeconfig.json
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\bin\Debug\netcoreapp3.1\Zadanie5.runtimeconfig.dev.json
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\bin\Debug\netcoreapp3.1\Zadanie5.dll
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\bin\Debug\netcoreapp3.1\Zadanie5.pdb
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.csprojAssemblyReference.cache
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.AssemblyInfoInputs.cache
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.AssemblyInfo.cs
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.dll
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.pdb
+C:\Users\CEM\Desktop\Szkoła .NET\week2lesson4\Week2Lesson4\Zadanie5\obj\Debug\netcoreapp3.1\Zadanie5.genruntimeconfig.cache

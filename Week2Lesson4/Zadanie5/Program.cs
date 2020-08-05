@@ -31,25 +31,53 @@ namespace Zadanie5
 
             Console.Write("Numer telefonu: ");
             PhoneNumber = Console.ReadLine();
-            int phoneNumber = int.Parse(PhoneNumber);
+            try
+            {
+                int phoneNumber = int.Parse(PhoneNumber);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Proszę podać prawidłową wartość !");
+            }
 
             Console.Write("Adres email: ");
             Email = Console.ReadLine();
 
             Console.Write("Wiek: ");
             Age = Console.ReadLine();
-            short age = short.Parse(Age);
+            try
+            {
+                short age = short.Parse(Age);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Proszę podać prawidłową wartość !");
+            }
 
             Console.Write("Płeć: ");
             Gender = Console.ReadLine();
 
             Console.Write("Wzrost: ");
             Height = Console.ReadLine();
-            short height = short.Parse(Height);
+            try
+            {
+                short height = short.Parse(Height);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Proszę podać prawidłową wartość !");
+            }
 
             Console.Write("Waga: ");
             Weight = Console.ReadLine();
-            double weight = double.Parse(Weight);
+            try
+            {
+                double weight = double.Parse(Weight);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Proszę podać prawidłową wartość !");
+            }
 
             Console.Write("Kolor oczu: ");
             EyesColor = Console.ReadLine();

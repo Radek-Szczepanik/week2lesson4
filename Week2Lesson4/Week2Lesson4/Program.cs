@@ -18,6 +18,7 @@ namespace Week2Lesson4
 
             // przypisanie do zmiennych
 
+
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Input your first name:");
             Console.ResetColor();
